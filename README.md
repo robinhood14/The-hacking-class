@@ -1,9 +1,8 @@
-# The-hacking-class
-<p>Les élèves peuvent s'inscrire à un seul cours. Un cours pourra avoir plusieurs élèves.</p>
-<p>une association de classe</p>
+
 
 <p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/200px-Ruby_On_Rails_Logo.svg.png" target="_blank"> </p>
 
+# The-hacking-class
 
 **Ce projet a été réalisé en Pair à Pair avec mon groupe, (forked)**
 
